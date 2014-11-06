@@ -16,8 +16,10 @@ gen/
 .gradle/
 build/
 
-IntelliJIdea folders
-.idea/
+# Android Studio
+.idea
+*.iml
+
 
 # Local configuration file (sdk path, etc)
 local.properties
